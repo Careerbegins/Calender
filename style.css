@@ -138,3 +138,9 @@ body{
 .dates .prev_date:hover{
     opacity: 1;
 }
+
+@media screen and (max-width:500px){
+    .container{
+        position: absolute;
+        left: 3px;
+}
